@@ -1,7 +1,3 @@
-Perfect! Let’s create a professional, clear, and complete README for your MathNite GitHub repository. This will cover everything someone might want to know: what the project is, features, how to run it, and contribution guidelines. Here’s a solid draft you can copy into README.md:
-
-⸻
-
 MathNite
 
 MathNite is an engaging and educational math game designed for kids and teens. Players battle math questions, earn J-Coins to spend in the in-game shop, collect rare items, and build their rank. Occasional medkits and shields help players survive, and each elimination earns a crown.
