@@ -26,8 +26,7 @@ MathNite is an engaging and educational math game designed for kids and teens. P
 ⚙️ Installation
 	1.	Clone the repository:
 
-git clone https://github.com/shibzpix/MathNite.git
-
+git clone https://github.com/shibzpix-hub/MathNite.git
 	2.	Open the project in Xcode or Bitrig.
 	3.	Build and run on a simulator or your device.
 
