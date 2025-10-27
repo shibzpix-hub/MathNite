@@ -42,7 +42,7 @@ git clone https://github.com/shibzpix-hub/MathNite.git
 
 📄 Privacy & Support
 	•	Support Contact: shibzpix@gmail.com
-	•	Privacy Policy: 
+	
 
 ⸻
 
@@ -54,16 +54,6 @@ Contributions are welcome!
 	3.	Commit your changes: git commit -m "Add new feature"
 	4.	Push to your branch: git push origin feature/new-feature
 	5.	Open a Pull Request
-
-⸻
-
-📸 Screenshots
-
-(Optional — add screenshots of the game here)
-
-/assets/screenshots/home.png
-/assets/screenshots/shop.png
-/assets/screenshots/gameplay.png
 
 
 ⸻
